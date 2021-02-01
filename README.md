@@ -1,9 +1,9 @@
 ## Welcome to TNAS
 
-### *Pattern matching*<div id="logo-container"><img id="logo-default" title="No readable content. Just a page logo" class="img-logo" align="right" src="https://github.com/ceresBakalite/ceres-sv/raw/main/images/CSV-02/Logo01.png"></div>
+### *Seeking patterns of similarity between data strings*<div id="logo-container"><img id="logo-default" title="No readable content. Just a page logo" class="img-logo" align="right" src="https://github.com/ceresBakalite/ceres-sv/raw/main/images/CSV-02/Logo01.png"></div>
 
-**ceres** presents a simple set of short, sharp functions showing a means to handle doubly linked lists in a human 
-readable way.
+**TNAS** estimates the similarities or dissimilarities between things. It compares any group of characters with any other group of characters and estimates the percentage similarity between one or more items.
+
 
 ***
 
