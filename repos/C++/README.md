@@ -2,7 +2,7 @@
 
 **NOTES:**
 
-    1. Target framework: .NET Standard >= 2.0
-    2. Output: Class Library
+    1. N/A
+    2. Output: executable / DLL / etc
     3. Platform: N/A
 ***
