@@ -12,11 +12,13 @@ other group of characters and estimates the percentage similarity between one or
 
 The TNAS repository holds both a C++ and a C# rendition of the Ratcliff/Obershelp pattern-matching algorithm developed by John W. Ratcliff and John A. Obershelp in 1983 to address concerns about educational software (Ratcliff, 1988).
 
+The two renditions rendeed here differ only in that the C# methods provide a comprehensive set of preprocessing attributes that modify the similarity outcome based on comparison characteristics relevent to specific data requirements.
+
   **C++ Comparison Methods**
 
     1. RatcliffObershelp
-
-  **C# Comparison Methods**
+    
+   **C# Comparison Methods**
 
     1. RatcliffObershelp
     2. LevenshteinDistance
