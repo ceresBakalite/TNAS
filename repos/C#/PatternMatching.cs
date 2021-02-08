@@ -310,7 +310,7 @@ namespace PatternMatching
             public static int GetWeightedComparison(string str1, string str2,
                 bool bRemoveNoiseCharacters = true, // remove whitespace and punctuation characters
                 bool bMakeCaseInsensitve = true,    // apply case insensitivity to each string
-                bool bPadToEqualLength = true,      // pad the smallest string to be of equal length to the largest (required)
+                bool bPadToEqualLength = true,      // pad the smallest string to be of equal length to the largest
                 bool bReverseComparison = true,     // determine if one string is similar to the converse of the other
                 bool bSoundexComparison = true,     // apply a phonetic filter to further determine similarity
                 bool bWholeWordComparison = true)   // weight distinct case insensitive whole words shared by both strings
