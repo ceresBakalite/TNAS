@@ -2,7 +2,6 @@
 
 **NOTES:**
 
-    1. N/A
-    2. Output: executable / DLL / etc
-    3. Platform: N/A
+    1. Output: executable / DLL / etc
+    2. Platform: N/A
 ***
