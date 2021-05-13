@@ -10,7 +10,7 @@ other group of characters and estimates the percentage similarity between one or
 
 ### Summary<img class="img-pointer" align="left" src="https://github.com/ceresBakalite/ceres-sv/raw/main/images/CSVPeriscope.png">
 
-The TNAS repository holds a variety of pattern matching algorithms including a C++ and a C# rendition of the Ratcliff/Obershelp pattern-matching algorithm developed by John W. Ratcliff and John A. Obershelp in 1983 to address concerns about educational software (Ratcliff, 1988).
+The TNAS repository holds a variety of common pattern matching algorithms including a C++ and a C# rendition of the Ratcliff/Obershelp pattern-matching algorithm developed by John W. Ratcliff and John A. Obershelp in 1983 to address concerns about educational software (Ratcliff, 1988).
 
 The two Ratcliff/Obershelp renditions here differ primarily in that the C# methods provide a comprehensive set of pre-processing attributes that modify the similarity outcome based on comparison characteristics that may be relevant to specific data requirements.
 
